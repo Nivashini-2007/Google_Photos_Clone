@@ -1,0 +1,22 @@
+
+# Node modules
+client/node_modules/
+
+# Next.js build files
+client/.next/
+
+# Build outputs
+client/out/
+client/dist/
+client/build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+
+# Backend build files
+backend/target/
